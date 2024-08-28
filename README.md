@@ -1,5 +1,5 @@
 ### Boas vindas ao meu perfil 🔥🔥🔥♨️🎻
-Meu nome é JOÃO
+** Meu nome é JOÃO **
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
